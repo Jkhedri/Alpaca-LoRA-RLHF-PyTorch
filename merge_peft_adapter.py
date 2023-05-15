@@ -75,10 +75,12 @@ for key in key_list:
         model.base_model._replace_module(parent, target_name, new_module, target)
 
 model = model.base_model.model
-
+"""
 if script_args.output_name is None:
     output_name = f"{script_args.model_name}-adapter-merged"
     model.save_pretrained(output_name)
 else:
     model.save_pretrained(f"{script_args.output_name}")
 # model.push_to_hub(f"{script_args.model_name}-adapter-merged", use_temp_dir=False)
+"""
+model.push_to_hub(model.push_to_hub("samhog/psychology-alpaca-rm-adapter-merged", use_auth_token=True))

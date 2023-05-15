@@ -212,7 +212,7 @@ model.config.use_cache = not script_args.gradient_checkpointing
 num_proc = 24  # Can adjust to be higher if you have more processors.
 
 
-
+print("DATASET NAMEMENEMNENMENMENMENM", dataset_name)
 reward_dataloder = rm_dataloader.RewardDataLoader(dataset_name, script_args.train_subset, script_args.eval_subset, num_proc, tokenizer)
 train_dataset, eval_dataset = reward_dataloder.load_data()
 
@@ -309,3 +309,4 @@ trainer.train(script_args.resume_from_checkpoint)
 print("Saving last checkpoint of the model")
 # model.save_pretrained(output_name + "_peft_last_checkpoint")
 model.save_pretrained(output_name)
+model.push_to_hub("samhog/psychology-alpaca-rm", use_auth_token=True)

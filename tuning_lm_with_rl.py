@@ -208,7 +208,7 @@ model = AutoModelForCausalLMWithValueHead.from_pretrained(
     device_map={"": current_device},
     # device_map="auto",
     peft_config=lora_config,
-    layer_norm_names=[],
+    # layer_norm_names=[],
     # torch_dtype=torch.float16,
 )
 
@@ -302,3 +302,5 @@ for epoch, batch in tqdm(enumerate(ppo_trainer.dataloader)):
 
     if script_args.save_freq and epoch and epoch % script_args.save_freq == 0:
         ppo_trainer.save_pretrained(script_args.output_dir + f"step_{epoch}")
+
+model.push_to_hub("samhog/psychology-alpaca-rlhf", use_auth_token=True)
