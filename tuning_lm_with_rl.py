@@ -79,7 +79,7 @@ print("script_args: ", script_args)
 reward_model_name = script_args.reward_model_name
 
 # dataset_name = "lvwerra/stack-exchange-paired"
-dataset_name = "./datasets/"
+dataset_name = "./datasets/rl-training.json"
 print("dataset_name: ", dataset_name)
 
 config = PPOConfig(
@@ -99,7 +99,7 @@ config = PPOConfig(
 # train_dataset = load_dataset("lvwerra/stack-exchange-paired", data_dir="data/rl", split="train")
 # train_dataset = train_dataset.select(range(100000))
 train_dataset = load_dataset(dataset_name, split="train")
-train_dataset = train_dataset.select(range(100))
+train_dataset = train_dataset.select(range(1000))
 # We then define the arguments to pass to the sentiment analysis pipeline.
 # We set `return_all_scores` to True to get the sentiment score for each token.
 # sent_kwargs = {"return_all_scores": True, "function_to_apply": "none", "batch_size": 16, "truncation": True}
@@ -160,8 +160,9 @@ def build_dataset(
             "input_ids": [],
         }
         # for question in examples["question"]:
-        for question in examples["user_input"]:
-            query = "Question: " + question + "\n\nAnswer: "
+        for question in examples["prompt"]:
+            query = "Prompt: " + question + "\n\nAnswer: "
+            print(query) 
             tokenized_question = tokenizer(query, truncation=True)
             new_examples["query"].append(query)
             new_examples["input_ids"].append(tokenized_question["input_ids"])

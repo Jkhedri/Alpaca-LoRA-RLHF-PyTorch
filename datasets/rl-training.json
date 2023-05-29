@@ -1,0 +1,3002 @@
+[
+    {
+        "prompt": "I'm feeling really angry and don't know how to control it."
+    },
+    {
+        "prompt": "I'm struggling with my faith and don't know what to believe."
+    },
+    {
+        "prompt": "I'm having trouble trusting others and opening up emotionally."
+    },
+    {
+        "prompt": "I'm struggling with my sexuality and don't know who to talk to."
+    },
+    {
+        "prompt": "I'm struggling with my body and don't feel comfortable in my own skin."
+    },
+    {
+        "prompt": "I'm struggling with my finances and don't know how to get back on track."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and my mind races with thoughts."
+    },
+    {
+        "prompt": "I feel like my partner doesn't understand me and we're constantly arguing."
+    },
+    {
+        "prompt": "I'm having trouble concentrating at work and my productivity has decreased."
+    },
+    {
+        "prompt": "I've been feeling really down and unmotivated lately."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed and don't know how to manage my time."
+    },
+    {
+        "prompt": "I'm having trouble making decisions and feel paralyzed by indecision."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and don't feel good enough."
+    },
+    {
+        "prompt": "I feel like I'm not being heard or taken seriously in my workplace."
+    },
+    {
+        "prompt": "I'm having trouble letting go of past trauma and it's impacting my daily life."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated lately."
+    },
+    {
+        "prompt": "I'm having trouble with my relationships and feel like I keep repeating the same patterns."
+    },
+    {
+        "prompt": "I feel like I'm constantly stressed and can't relax."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and feel insecure about my appearance."
+    },
+    {
+        "prompt": "I'm feeling really angry lately and don't know how to manage it."
+    },
+    {
+        "prompt": "I'm struggling with addiction and can't seem to stop."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and feel confused."
+    },
+    {
+        "prompt": "I'm struggling with the loss of a loved one and feel stuck in my grief."
+    },
+    {
+        "prompt": "I'm having trouble with my body and feel like I don't fit in."
+    },
+    {
+        "prompt": "I'm feeling really stressed about my finances and don't know how to manage them."
+    },
+    {
+        "prompt": "I'm feeling really anxious all the time and I can't seem to control it."
+    },
+    {
+        "prompt": "I've been feeling really down lately and nothing seems to bring me joy anymore."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and I'm always tired during the day."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we can't seem to communicate effectively."
+    },
+    {
+        "prompt": "I'm really struggling with low self-esteem and feeling like I'm not good enough."
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter and we're constantly arguing."
+    },
+    {
+        "prompt": "I've been struggling with addiction and it's affecting my relationships and work."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with work and I'm having trouble balancing everything."
+    },
+    {
+        "prompt": "I'm having trouble making friends and feeling like I fit in."
+    },
+    {
+        "prompt": "I'm having trouble with my boss and feeling like I'm not being treated fairly."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and feeling like I'm not attractive enough."
+    },
+    {
+        "prompt": "I'm having trouble with my in-laws and feeling like they're always meddling in my relationship."
+    },
+    {
+        "prompt": "I'm having trouble with my child's behavior and feeling like I'm not a good parent."
+    },
+    {
+        "prompt": "I'm having trouble with my own behavior and feeling like I can't control my anger."
+    },
+    {
+        "prompt": "I'm having trouble with my finances and feeling like I'm drowning in debt."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and feeling like I'm not sure who I'm attracted to."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and feeling like I don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my career and feeling like I'm stuck in a dead-end job."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I feel like I'm not good enough for anyone and I hate myself."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I'm feeling really tired during the day."
+    },
+    {
+        "prompt": "I can't stop thinking about my ex and it's interfering with my daily life."
+    },
+    {
+        "prompt": "I'm having trouble concentrating and I keep forgetting things."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know what to do."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a new job and I'm not sure I can handle it."
+    },
+    {
+        "prompt": "I'm feeling really alone and isolated lately."
+    },
+    {
+        "prompt": "I'm having trouble with my parents and I don't know how to communicate with them effectively."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I feel like I'm not attractive."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I keep lashing out at people."
+    },
+    {
+        "prompt": "I'm struggling with gender identity and I don't know how to talk about it with my friends and family."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I don't know how to come out to my family."
+    },
+    {
+        "prompt": "I've been feeling really stressed lately and I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble with my marriage and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and I don't know how to manage it."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't feel confident in myself."
+    },
+    {
+        "prompt": "I'm having trouble with my weight and I don't know how to lose it."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with everything going on in my life right now."
+    },
+    {
+        "prompt": "I'm struggling with feelings of depression and hopelessness."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and staying awake during the day."
+    },
+    {
+        "prompt": "I'm dealing with a lot of anxiety and panic attacks."
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to quit."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated."
+    },
+    {
+        "prompt": "I'm struggling with body image and self-esteem issues."
+    },
+    {
+        "prompt": "I'm having trouble communicating effectively with my partner."
+    },
+    {
+        "prompt": "I'm struggling with a recent breakup and don't know how to move on."
+    },
+    {
+        "prompt": "I'm feeling really stressed and burned out at work."
+    },
+    {
+        "prompt": "I'm struggling with feelings of guilt and shame."
+    },
+    {
+        "prompt": "I'm dealing with a lot of anger and don't know how to control it."
+    },
+    {
+        "prompt": "I'm struggling with a phobia that's impacting my daily life."
+    },
+    {
+        "prompt": "I'm dealing with a lot of grief after the loss of a loved one."
+    },
+    {
+        "prompt": "I'm feeling really stuck in my career and don't know how to move forward."
+    },
+    {
+        "prompt": "I'm struggling with a chronic illness and don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble setting and achieving my goals."
+    },
+    {
+        "prompt": "I'm struggling with an eating disorder and don't know how to get help."
+    },
+    {
+        "prompt": "I'm having trouble managing my finances and don't know where to start."
+    },
+    {
+        "prompt": "I'm struggling with feelings of inadequacy and imposter syndrome."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I can't seem to stop thinking about my ex and it's interfering with my daily life."
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I've been having trouble sleeping and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know where to turn."
+    },
+    {
+        "prompt": "I'm having trouble communicating with my partner and it's causing a lot of tension in our relationship."
+    },
+    {
+        "prompt": "I'm feeling really stressed at work and it's affecting my mental health."
+    },
+    {
+        "prompt": "I'm struggling with body image issues and it's affecting my self-esteem."
+    },
+    {
+        "prompt": "I've been feeling really angry lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble with my memory and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and don't know how to manage my responsibilities."
+    },
+    {
+        "prompt": "I'm feeling really lonely lately and don't know how to connect with others."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to interact with others."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did and don't know how to move past it."
+    },
+    {
+        "prompt": "I'm feeling really hopeless about the future and don't know how to find meaning in my life."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and don't know how to come out to my loved ones."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with grief after the loss of a loved one."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and don't know how to improve my self-worth."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming event and don't know how to manage my anxiety."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I think I might have insomnia."
+    },
+    {
+        "prompt": "I'm feeling really down and I don't have any motivation to do anything."
+    },
+    {
+        "prompt": "I'm having trouble connecting with my partner and we're fighting a lot."
+    },
+    {
+        "prompt": "I'm having panic attacks and I don't know what to do."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm feeling really stressed and overwhelmed with work."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm feeling really angry and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble with social anxiety."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and body image."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with parenting."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance."
+    },
+    {
+        "prompt": "I'm having trouble coping with a recent loss."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my finances."
+    },
+    {
+        "prompt": "I'm having trouble with my communication skills."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my academic workload."
+    },
+    {
+        "prompt": "I'm having trouble with my time management skills."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my social life."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I think I might be depressed. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night."
+    },
+    {
+        "prompt": "I'm having problems in my relationship with my partner."
+    },
+    {
+        "prompt": "I'm struggling with addiction."
+    },
+    {
+        "prompt": "I'm feeling really stressed at work."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble managing my time."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and don't know where to start."
+    },
+    {
+        "prompt": "I'm having trouble communicating with my coworkers."
+    },
+    {
+        "prompt": "I'm feeling really angry and don't know how to control it."
+    },
+    {
+        "prompt": "I'm having trouble setting boundaries with my family."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated."
+    },
+    {
+        "prompt": "I'm having trouble forgiving someone who hurt me."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my responsibilities."
+    },
+    {
+        "prompt": "I'm having trouble coping with a recent loss."
+    },
+    {
+        "prompt": "I'm feeling really stuck in my career."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my finances."
+    },
+    {
+        "prompt": "I'm feeling really anxious about the future."
+    },
+    {
+        "prompt": "I have been feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I'm not sure if I'm in love with my partner anymore."
+    },
+    {
+        "prompt": "I'm really stressed out about work and I can't seem to relax."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night."
+    },
+    {
+        "prompt": "I'm feeling really anxious and nervous all the time."
+    },
+    {
+        "prompt": "I feel like I have no motivation to do anything anymore."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and don't know how to manage my stress."
+    },
+    {
+        "prompt": "I recently lost a loved one and I'm having a hard time coping."
+    },
+    {
+        "prompt": "I've been feeling really lonely lately."
+    },
+    {
+        "prompt": "I'm feeling really angry all the time and don't know why."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did in the past."
+    },
+    {
+        "prompt": "I'm feeling really insecure about my appearance."
+    },
+    {
+        "prompt": "I'm feeling really lost and don't know what to do with my life."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by the state of the world and all the negativity in the news."
+    },
+    {
+        "prompt": "I'm feeling really stressed about my finances."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my responsibilities as a caregiver."
+    },
+    {
+        "prompt": "I'm feeling really unfulfilled in my job."
+    },
+    {
+        "prompt": "I'm feeling really anxious about social situations."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my workload."
+    },
+    {
+        "prompt": "I feel like I'm always stressed out and can't seem to relax. What can I do to manage my stress better?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I don't know why. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I feel like I'm always anxious and on edge. What can I do to manage my anxiety?"
+    },
+    {
+        "prompt": "I'm having trouble with my marriage and don't know how to communicate with my partner effectively. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm feeling increasingly sad and hopeless. What can I do to improve my mood?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and don't feel confident in myself. What can I do to improve my self-worth?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger and don't know how to control it. What can I do to manage my anger better?"
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and don't know how to quit. What can I do to overcome my addiction?"
+    },
+    {
+        "prompt": "I'm having trouble with my attention span and can't seem to focus on anything. What can I do to improve my concentration?"
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and don't know how to eat more healthily. What can I do to improve my diet?"
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and don't know how to interact with people. What can I do to improve my social skills?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and don't know how to manage my time effectively. What can I do to improve my work-life balance?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image and don't feel comfortable in my own skin. What can I do to improve my body image?"
+    },
+    {
+        "prompt": "I'm having trouble with my motivation and don't feel like doing anything. What can I do to improve my motivation?"
+    },
+    {
+        "prompt": "I'm having trouble with my grief and don't know how to cope with my loss. What can I do to manage my grief better?"
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and don't know how to come out to my family. What can I do to feel more comfortable with my sexuality?"
+    },
+    {
+        "prompt": "I'm having trouble with my identity and don't know who I am. What can I do to feel more comfortable with my identity?"
+    },
+    {
+        "prompt": "I'm having trouble with my spirituality and don't know what I believe in. What can I do to feel more comfortable with my spirituality?"
+    },
+    {
+        "prompt": "I'm having trouble with my financial situation and don't know how to manage my money. What can I do to improve my financial literacy?"
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and personal life. I don't know how to manage everything."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. I toss and turn for hours before falling asleep."
+    },
+    {
+        "prompt": "I'm having trouble concentrating at work. I keep getting distracted and can't focus on my tasks."
+    },
+    {
+        "prompt": "I'm feeling really down lately. I don't have any motivation to do anything."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship. My partner and I keep fighting and I don't know how to fix things."
+    },
+    {
+        "prompt": "I'm struggling with my self-esteem. I don't feel good about myself and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble with addiction. I can't stop using drugs/alcohol."
+    },
+    {
+        "prompt": "I'm feeling anxious in social situations. I get nervous and feel like everyone is judging me."
+    },
+    {
+        "prompt": "I'm struggling with my sexuality. I don't know if I'm gay or straight and it's causing me a lot of confusion and distress."
+    },
+    {
+        "prompt": "I'm having trouble with my anger. I get easily frustrated and lash out at others."
+    },
+    {
+        "prompt": "I'm feeling lost and directionless in my life. I don't know what I want to do with my future."
+    },
+    {
+        "prompt": "I'm struggling with grief after the loss of a loved one. I don't know how to cope with the pain."
+    },
+    {
+        "prompt": "I'm having trouble with my body image. I don't feel good about the way I look."
+    },
+    {
+        "prompt": "I'm feeling stressed at work. I have a lot of deadlines and don't know how to manage my workload."
+    },
+    {
+        "prompt": "I'm struggling with my eating habits. I either overeat or restrict my food intake."
+    },
+    {
+        "prompt": "I'm having trouble with my memory. I keep forgetting important things."
+    },
+    {
+        "prompt": "I'm feeling stuck in my current job. I don't know how to advance or find a new job."
+    },
+    {
+        "prompt": "I'm having trouble with my family. We keep arguing and I don't know how to improve our relationship."
+    },
+    {
+        "prompt": "I'm feeling like I'm not good enough. I don't feel like I measure up to others."
+    },
+    {
+        "prompt": "I feel really anxious all the time and don't know what to do about it."
+    },
+    {
+        "prompt": "I can't seem to stop procrastinating and it's affecting my work and personal life."
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless lately. It's hard to even get out of bed in the morning."
+    },
+    {
+        "prompt": "I'm struggling with addiction and it's taking over my life."
+    },
+    {
+        "prompt": "I'm having trouble communicating with my spouse and it's causing a lot of tension in our relationship."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm feeling really stressed and overwhelmed with work."
+    },
+    {
+        "prompt": "I'm feeling really insecure about my appearance and it's affecting my self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change, like a move or a new job."
+    },
+    {
+        "prompt": "I'm feeling really angry and don't know how to control it."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and don't feel good enough."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with parenting and don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble with intimacy in my relationship."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did and don't know how to move on."
+    },
+    {
+        "prompt": "I'm feeling really lost and don't know what to do with my life."
+    },
+    {
+        "prompt": "I'm feeling really jealous of someone and don't know how to deal with it."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with school work."
+    },
+    {
+        "prompt": "I'm feeling really anxious about public speaking."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with financial stress."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately and it's affecting my ability to focus at work."
+    },
+    {
+        "prompt": "My partner and I have been arguing a lot lately and I don't know how to improve our relationship."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and don't feel good enough compared to others."
+    },
+    {
+        "prompt": "I've been having trouble sleeping and I'm always tired."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with all my responsibilities and don't know how to manage my time effectively."
+    },
+    {
+        "prompt": "I've been feeling really down lately and don't have any motivation to do anything."
+    },
+    {
+        "prompt": "I've been having trouble with my memory and forget things easily."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a big life change and don't know how to cope."
+    },
+    {
+        "prompt": "I'm feeling really stressed about an upcoming exam and don't know how to prepare effectively."
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to quit."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated lately."
+    },
+    {
+        "prompt": "I've been having trouble with my anger and often lash out at others."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and don't know how to come out to my family and friends."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload and don't know how to manage my stress."
+    },
+    {
+        "prompt": "I'm struggling with my body image and often feel insecure about my appearance."
+    },
+    {
+        "prompt": "I'm having trouble with my romantic relationship and don't know how to communicate effectively with my partner."
+    },
+    {
+        "prompt": "I'm feeling really anxious about a social situation and don't know how to handle it."
+    },
+    {
+        "prompt": "I'm struggling with my mental health and don't know how to get help."
+    },
+    {
+        "prompt": "I'm feeling really stressed about my finances and don't know how to manage my money effectively."
+    },
+    {
+        "prompt": "I'm struggling with my career and don't know what to do next."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming job interview. What can I do to calm down?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping lately. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm feeling really down lately and don't know why. What could be causing this?"
+    },
+    {
+        "prompt": "I'm having trouble communicating with my partner. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with motivation and procrastination. What can I do to get things done?"
+    },
+    {
+        "prompt": "I'm feeling really stressed and overwhelmed. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really self-conscious about my appearance. What can I do to feel better about myself?"
+    },
+    {
+        "prompt": "I'm feeling really angry and don't know why. What can I do to manage my anger?"
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated. What can I do to connect with others?"
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did. What can I do to cope with my feelings?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload. What can I do to manage my time better?"
+    },
+    {
+        "prompt": "I'm feeling really stuck in my career. What can I do to find a new direction?"
+    },
+    {
+        "prompt": "I'm feeling really insecure about my relationship. What can I do to feel more secure?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about a medical procedure. What can I do to calm down?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my family responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really sad and don't know why. What could be causing this?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my financial situation. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about starting therapy. What can I do to feel more comfortable?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my social media use. What can I do to manage my time better?"
+    },
+    {
+        "prompt": "I'm feeling really stressed about an upcoming deadline. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I've been feeling really anxious lately, especially in social situations. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. Do you have any suggestions?"
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless. What can I do to feel better?"
+    },
+    {
+        "prompt": "I've been having a lot of conflicts with my partner lately. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm really struggling with my workload and feeling overwhelmed. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and always feel like I'm not good enough. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by all the bad news in the world. What can I do to cope?"
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to quit. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger and often lash out at people. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image and don't feel comfortable in my own skin. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and don't know how to come out to my family. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my gender identity and don't know how to come out to my friends. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my academic performance and don't know how to improve. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and feel like I'm always stressed. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm having trouble with my family and don't know how to communicate with them. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my friendships and don't know how to connect with people. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my identity and don't know who I am. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my parenting and don't know how to connect with my child. What can I do?"
+    },
+    {
+        "prompt": "I feel like I'm always anxious and worried about everything. What's wrong with me?"
+    },
+    {
+        "prompt": "My partner and I have been arguing a lot lately. I don't know if we should stay together. What do you think?"
+    },
+    {
+        "prompt": "I have trouble sleeping at night. What can I do to sleep better?"
+    },
+    {
+        "prompt": "I'm not sure if I'm happy in my job anymore. Should I quit?"
+    },
+    {
+        "prompt": "I'm having trouble concentrating lately. What could be causing this?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with everything going on in my life. What can I do to feel more in control?"
+    },
+    {
+        "prompt": "I'm having trouble connecting with my teenage child. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I think I might be depressed. What should I do?"
+    },
+    {
+        "prompt": "I've been feeling really anxious about public speaking. How can I overcome this fear?"
+    },
+    {
+        "prompt": "My partner and I have been trying to have a baby for over a year without success. What should we do?"
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem. How can I improve my self-image?"
+    },
+    {
+        "prompt": "I think I might have an eating disorder. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one. What can I do to feel better?"
+    },
+    {
+        "prompt": "I feel like I'm not achieving my goals in life. What can I do to be more successful?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner's infidelity. What can I do to heal from this?"
+    },
+    {
+        "prompt": "I'm struggling with addiction. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble managing my anger. What can I do to control it?"
+    },
+    {
+        "prompt": "I'm feeling really stressed out at work. What can I do to manage my stress levels?"
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated. What can I do to feel more connected?"
+    },
+    {
+        "prompt": "I'm having trouble managing my finances. What can I do to improve my financial situation?"
+    },
+    {
+        "prompt": "I've been feeling really anxious lately, like something bad is going to happen. What's wrong with me?"
+    },
+    {
+        "prompt": "I think my partner might be cheating on me. What should I do?"
+    },
+    {
+        "prompt": "I can't seem to shake this feeling of sadness. What's wrong with me?"
+    },
+    {
+        "prompt": "I hate my job and I don't know what to do. I feel stuck."
+    },
+    {
+        "prompt": "I'm having trouble sleeping. What can I do to help?"
+    },
+    {
+        "prompt": "I don't know how to deal with my anger. I often lash out at others and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem. What can I do to feel better about myself?"
+    },
+    {
+        "prompt": "I'm really stressed about an upcoming event. What can I do to calm down?"
+    },
+    {
+        "prompt": "I'm having trouble making decisions. I always second-guess myself."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble connecting with others. I feel lonely even when I'm around people."
+    },
+    {
+        "prompt": "I'm struggling with an addiction. What can I do to stop?"
+    },
+    {
+        "prompt": "I'm struggling with body image issues. I feel like I'm never good enough."
+    },
+    {
+        "prompt": "I'm having trouble moving on from a past relationship. What can I do to heal?"
+    },
+    {
+        "prompt": "I'm struggling with feelings of guilt and shame. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm having trouble managing my anger towards my child. I feel like I'm always yelling at them."
+    },
+    {
+        "prompt": "I'm struggling with feelings of jealousy towards my partner's ex. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with parenting. I don't know if I'm doing a good job."
+    },
+    {
+        "prompt": "I'm having trouble forgiving someone who hurt me. What can I do to move on?"
+    },
+    {
+        "prompt": "I'm struggling with feelings of worthlessness. What can I do to feel better about myself?"
+    },
+    {
+        "prompt": "I'm feeling very stressed out lately, what can I do to calm down?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night, what can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner, we keep arguing and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't feel good about myself."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work/school, what can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits, what can I do to improve my relationship with food?"
+    },
+    {
+        "prompt": "I'm having trouble with my anxiety, what can I do to manage my symptoms?"
+    },
+    {
+        "prompt": "I'm struggling with addiction, what can I do to get help?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger, what can I do to manage my emotions?"
+    },
+    {
+        "prompt": "I'm having trouble with my sexual identity, what can I do to explore my feelings?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image, what can I do to improve my self-perception?"
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety, what can I do to manage my symptoms?"
+    },
+    {
+        "prompt": "I'm having trouble with my relationship with my parents, what can I do to improve our communication?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance, what can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my procrastination, what can I do to be more productive?"
+    },
+    {
+        "prompt": "I'm having trouble with my grief after the loss of a loved one, what can I do to cope?"
+    },
+    {
+        "prompt": "I'm having trouble with my work performance, what can I do to improve?"
+    },
+    {
+        "prompt": "I'm having trouble with my communication skills, what can I do to improve?"
+    },
+    {
+        "prompt": "I'm feeling anxious all the time and can't seem to relax. What should I do?"
+    },
+    {
+        "prompt": "My partner and I keep arguing all the time. What can we do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping and keep waking up throughout the night. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless. What can I do to improve my mood?"
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and feel like I'm not good enough. How can I improve my self-confidence?"
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a recent life change, such as a move or a new job. What can I do to cope better?"
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my memory and concentration. What can I do to improve my cognitive function?"
+    },
+    {
+        "prompt": "I'm struggling with feelings of guilt and shame. What can I do to overcome these emotions?"
+    },
+    {
+        "prompt": "I'm feeling stuck in my career and unsure of what to do next. What can I do to get unstuck?"
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and I'm always tired during the day."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know what to do."
+    },
+    {
+        "prompt": "I've been having panic attacks and I don't know how to make them stop."
+    },
+    {
+        "prompt": "I'm having trouble concentrating and getting things done."
+    },
+    {
+        "prompt": "I'm in a really toxic relationship and I don't know how to get out of it."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a recent life change."
+    },
+    {
+        "prompt": "I'm dealing with a lot of grief after losing someone close to me."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble with my romantic relationship."
+    },
+    {
+        "prompt": "I'm having trouble with my family."
+    },
+    {
+        "prompt": "I'm struggling with addiction."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm struggling with my body image."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety."
+    },
+    {
+        "prompt": "I'm dealing with a lot of stress and it's affecting my health."
+    },
+    {
+        "prompt": "I'm struggling with my identity and feeling lost."
+    },
+    {
+        "prompt": "I'm dealing with a lot of guilt and shame."
+    },
+    {
+        "prompt": "I'm feeling very anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I can't seem to shake it off."
+    },
+    {
+        "prompt": "I can't seem to stop obsessing over my mistakes and failures."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm feeling really stressed out lately and I don't know how to cope with it."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know what to do."
+    },
+    {
+        "prompt": "I've been feeling really alone lately and I don't have anyone to talk to."
+    },
+    {
+        "prompt": "I'm having trouble concentrating and staying focused."
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to stop."
+    },
+    {
+        "prompt": "I've been feeling really angry lately and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and don't know how to handle everything on my plate."
+    },
+    {
+        "prompt": "I'm feeling really insecure and have low self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm feeling really stuck in my career and don't know how to move forward."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did in the past."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my emotions and don't know how to regulate them."
+    },
+    {
+        "prompt": "I'm feeling really lost and don't know what my purpose is in life."
+    },
+    {
+        "prompt": "I'm having trouble with my self-image and don't feel comfortable in my own skin."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and don't know how to maintain a healthy diet."
+    },
+    {
+        "prompt": "I'm feeling really anxious about social situations and have trouble interacting with others."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming job interview. What can I do to calm my nerves?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What are some ways I can improve my sleep?"
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know why. What could be causing this?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we're considering couples therapy. What can we expect from this type of therapy?"
+    },
+    {
+        "prompt": "I've been experiencing panic attacks and I don't know what to do. How can I manage these episodes?"
+    },
+    {
+        "prompt": "I'm struggling with addiction and I want to seek help. What are my options?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with work and life in general. How can I manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble controlling my anger and it's affecting my relationships. What can I do to manage this?"
+    },
+    {
+        "prompt": "I'm having trouble with self-esteem and I don't feel good about myself. What can I do to improve this?"
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and I find it hard to interact with others. What can I do to overcome this?"
+    },
+    {
+        "prompt": "I'm having trouble with my family and we're constantly arguing. What can I do to improve our relationships?"
+    },
+    {
+        "prompt": "I'm feeling really depressed and hopeless. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm struggling with body image issues and I don't feel good about my appearance. What can I do to improve this?"
+    },
+    {
+        "prompt": "I'm having trouble with my career and I feel stuck. What can I do to find more fulfillment in my work?"
+    },
+    {
+        "prompt": "I'm having trouble with my friends and they don't seem to understand me. What can I do to improve these relationships?"
+    },
+    {
+        "prompt": "I'm struggling with my identity and I'm not sure who I am. What can I do to find myself?"
+    },
+    {
+        "prompt": "I'm having trouble with my parents and we're constantly arguing. What can I do to improve our relationships?"
+    },
+    {
+        "prompt": "I'm struggling with jealousy and it's affecting my relationships. What can I do to manage this?"
+    },
+    {
+        "prompt": "I'm having trouble with my child and they're acting out. What can I do to improve our parent-child relationship?"
+    },
+    {
+        "prompt": "I'm struggling with trust issues and it's affecting my relationships. What can I do to manage this?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed lately. I don't know how to deal with everything on my plate."
+    },
+    {
+        "prompt": "I think I might have depression. I'm always sad and lacking motivation."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night, and I feel exhausted all the time."
+    },
+    {
+        "prompt": "I'm really nervous about an upcoming job interview. I don't know how to calm down."
+    },
+    {
+        "prompt": "I'm having relationship problems with my partner. We argue all the time and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and don't feel good about myself."
+    },
+    {
+        "prompt": "I've been feeling really angry and irritable lately. I don't know how to control my temper."
+    },
+    {
+        "prompt": "I'm having trouble making decisions and often feel indecisive."
+    },
+    {
+        "prompt": "I'm experiencing a lot of grief after losing a loved one. I don't know how to cope with the pain."
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble in school and feel like I'm falling behind."
+    },
+    {
+        "prompt": "I'm struggling with my identity and don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my parents and feel like they don't understand me."
+    },
+    {
+        "prompt": "I'm feeling really isolated and lonely lately."
+    },
+    {
+        "prompt": "I'm having trouble with anxiety and panic attacks."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and don't feel good about my appearance."
+    },
+    {
+        "prompt": "I'm experiencing a lot of stress at work and don't know how to manage it."
+    },
+    {
+        "prompt": "I'm having trouble with intimacy and don't know how to improve my sex life."
+    },
+    {
+        "prompt": "I'm struggling with anger management and often lash out at others."
+    },
+    {
+        "prompt": "I'm feeling unmotivated and don't know how to get back on track."
+    },
+    {
+        "prompt": "I'm feeling very anxious about an upcoming job interview."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I can't seem to shake it off."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble dealing with the recent loss of a loved one."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and it's affecting my relationships and daily life."
+    },
+    {
+        "prompt": "I'm having trouble managing my anger and it's causing problems in my personal and professional life."
+    },
+    {
+        "prompt": "I'm struggling with addiction and it's affecting my life in many negative ways."
+    },
+    {
+        "prompt": "I'm feeling very overwhelmed with work and personal responsibilities."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to form relationships and enjoy social situations."
+    },
+    {
+        "prompt": "I'm having trouble with my romantic relationship and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm struggling with body image issues and it's affecting my self-esteem and confidence."
+    },
+    {
+        "prompt": "I'm feeling very stressed and overwhelmed with my academic workload."
+    },
+    {
+        "prompt": "I'm having trouble coping with a recent traumatic event."
+    },
+    {
+        "prompt": "I'm struggling with chronic pain and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm feeling very overwhelmed with my financial situation."
+    },
+    {
+        "prompt": "I'm struggling with my identity and feel like I don't belong anywhere."
+    },
+    {
+        "prompt": "I'm feeling very lonely and isolated."
+    },
+    {
+        "prompt": "I'm having trouble with my child's behavior and don't know how to discipline them effectively."
+    },
+    {
+        "prompt": "I'm struggling with trust issues and it's affecting my ability to form relationships."
+    },
+    {
+        "prompt": "I feel like I'm stuck in life and I don't know what to do next."
+    },
+    {
+        "prompt": "I have been feeling anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I feel tired all the time."
+    },
+    {
+        "prompt": "I keep having nightmares and they're really affecting my quality of life."
+    },
+    {
+        "prompt": "I have been feeling really down and unmotivated lately."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep fighting."
+    },
+    {
+        "prompt": "I am struggling with my sexuality and I don't know who to talk to."
+    },
+    {
+        "prompt": "I have been feeling overwhelmed and stressed with work and responsibilities."
+    },
+    {
+        "prompt": "I have been feeling very angry lately and it's affecting my relationships."
+    },
+    {
+        "prompt": "I have been feeling very lonely and isolated lately."
+    },
+    {
+        "prompt": "I have been feeling very anxious about taking tests."
+    },
+    {
+        "prompt": "I have been feeling guilty about something I did in the past."
+    },
+    {
+        "prompt": "I have been feeling very self-conscious about my appearance."
+    },
+    {
+        "prompt": "I have been feeling very overwhelmed with my academic workload."
+    },
+    {
+        "prompt": "I am struggling with substance abuse and addiction."
+    },
+    {
+        "prompt": "I have been feeling very insecure about my relationship."
+    },
+    {
+        "prompt": "I have been feeling very stressed about my financial situation."
+    },
+    {
+        "prompt": "I have been feeling very anxious about social situations."
+    },
+    {
+        "prompt": "I am struggling with grief after the loss of a loved one."
+    },
+    {
+        "prompt": "I feel like I'm always anxious and I don't know how to stop it."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I don't know why."
+    },
+    {
+        "prompt": "I'm feeling really depressed and I don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep arguing."
+    },
+    {
+        "prompt": "I feel like I'm not good enough and I always compare myself to others."
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter and she won't listen to me."
+    },
+    {
+        "prompt": "I'm feeling really stressed at work and I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't feel confident."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I don't know how to control it."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I don't know how to quit."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't feel good about myself."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I don't know how to overcome it."
+    },
+    {
+        "prompt": "I'm having trouble with my trust issues and I don't know how to get over them."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I don't know how to eat healthier."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I don't know how to prioritize my time."
+    },
+    {
+        "prompt": "I'm having trouble with my motivation and I don't feel like doing anything."
+    },
+    {
+        "prompt": "I'm having trouble with my grief and I don't know how to cope with my loss."
+    },
+    {
+        "prompt": "I'm having trouble with my communication skills and I don't know how to express myself effectively."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I don't know how to come out to my family."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and I don't know who I am."
+    },
+    {
+        "prompt": "I am feeling really anxious about an upcoming job interview. What can I do to calm down?"
+    },
+    {
+        "prompt": "My partner and I have been having a lot of arguments lately. What can we do to improve our communication?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know why. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm having trouble in my relationship because my partner doesn't seem to understand my needs. What can I do?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with all the responsibilities I have. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble forgiving someone who hurt me. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my boss at work. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble making friends. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm having trouble with my parents. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm having trouble with my child's behavior. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm having trouble with my addiction. What can I do to overcome it?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm having trouble dealing with grief. What can I do to cope?"
+    },
+    {
+        "prompt": "I'm having trouble with my memory. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I don't know what to do."
+    },
+    {
+        "prompt": "I feel like I'm always angry and irritable."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep fighting."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and confidence."
+    },
+    {
+        "prompt": "I'm having trouble with my teenage child and they won't listen to me."
+    },
+    {
+        "prompt": "I'm feeling really stressed at work and it's affecting my health."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't feel good about myself."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I can't seem to quit."
+    },
+    {
+        "prompt": "I'm having trouble with my eating disorder and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble with my PTSD and I can't seem to move on from my traumatic experience."
+    },
+    {
+        "prompt": "I'm having trouble with my OCD and my compulsions are taking over my life."
+    },
+    {
+        "prompt": "I'm having trouble with my panic attacks and they're affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble with my phobia and it's limiting my activities."
+    },
+    {
+        "prompt": "I'm having trouble with my bipolar disorder and my moods are all over the place."
+    },
+    {
+        "prompt": "I'm having trouble with my schizophrenia and I'm hearing voices."
+    },
+    {
+        "prompt": "I'm having trouble with my personality disorder and my relationships are suffering."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately, and it's starting to interfere with my daily life. What can I do to manage my anxiety?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I think it might be because of stress. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm having trouble focusing at work and it's affecting my productivity. What can I do to improve my concentration?"
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know why. What can I do to improve my mood?"
+    },
+    {
+        "prompt": "I'm having trouble connecting with people and making friends. What can I do to improve my social skills?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep arguing about the same things. What can we do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't feel good about myself. What can I do to improve my self-image?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't feel good about the way I look. What can I do to improve my self-image?"
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know how to stop. What can I do to overcome my addiction?"
+    },
+    {
+        "prompt": "I'm having trouble with my family and we keep arguing about the same things. What can we do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my boss and we keep clashing about the same things. What can I do to improve our working relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my finances and I'm not sure how to manage my money. What can I do to improve my financial situation?"
+    },
+    {
+        "prompt": "I'm having trouble with my time management and I'm not getting everything done that I need to. What can I do to improve my productivity?"
+    },
+    {
+        "prompt": "I'm having trouble with my mood swings and I'm not sure what's causing them. What can I do to manage my emotions?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I feel like I'm always working. What can I do to improve my balance?"
+    },
+    {
+        "prompt": "I'm having trouble with my romantic relationship and we keep arguing about the same things. What can we do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my child and we keep arguing about the same things. What can I do to improve our relationship?"
+    },
+    {
+        "prompt": "I'm having trouble with my body pain and it's affecting my daily life. What can I do to manage my pain?"
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and it's affecting my daily life."
+    },
+    {
+        "prompt": "I feel like I'm not good enough and I constantly compare myself to others."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know where to turn."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm feeling really stressed out and I don't know how to relax."
+    },
+    {
+        "prompt": "I'm having trouble with my self-confidence and I don't know how to improve it."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I don't know how to control it."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to make friends."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and I don't know how to manage my time effectively."
+    },
+    {
+        "prompt": "I'm struggling with body image issues and I don't know how to improve my self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble with my memory and I don't know why."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and I don't know how to come out to my family."
+    },
+    {
+        "prompt": "I'm having trouble with my motivation and I don't know how to get motivated."
+    },
+    {
+        "prompt": "I'm struggling with my identity and I don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I don't know how to develop a healthier relationship with food."
+    },
+    {
+        "prompt": "I'm struggling with my career and I don't know what direction to take."
+    },
+    {
+        "prompt": "I'm having trouble with my finances and I don't know how to manage my money effectively."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I've tried everything. What should I do?"
+    },
+    {
+        "prompt": "I'm feeling really down and I don't know what to do."
+    },
+    {
+        "prompt": "I've been having panic attacks and I'm scared it's something serious."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really stressed out at work and it's affecting my mental health."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't know how to improve it."
+    },
+    {
+        "prompt": "I'm struggling with an addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter and I don't know how to communicate with her."
+    },
+    {
+        "prompt": "I'm struggling with my gender identity and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and I don't know how to manage my stress."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I don't know how to control it."
+    },
+    {
+        "prompt": "I'm struggling with my body image and I don't know how to improve it."
+    },
+    {
+        "prompt": "I'm having trouble with my memory and I'm worried it's a sign of something serious."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated and I don't know how to connect with others."
+    },
+    {
+        "prompt": "I'm struggling with my motivation and I don't know how to get back on track."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I don't know how to improve them."
+    },
+    {
+        "prompt": "I'm struggling with my alcohol consumption and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my responsibilities and I don't know how to manage them all."
+    },
+    {
+        "prompt": "I feel like I'm constantly worrying about everything. What can I do to stop this?"
+    },
+    {
+        "prompt": "I'm feeling really down lately and I don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What can I do to help me fall asleep?"
+    },
+    {
+        "prompt": "I'm having trouble in my relationship. What should I do?"
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with all of my responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem. What can I do to feel better about myself?"
+    },
+    {
+        "prompt": "I'm feeling really angry lately and I don't know why."
+    },
+    {
+        "prompt": "I'm struggling with addiction. What should I do?"
+    },
+    {
+        "prompt": "I'm experiencing a lot of grief after the loss of a loved one. What can I do to cope?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming event. What can I do to calm my nerves?"
+    },
+    {
+        "prompt": "I'm having trouble with my memory. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm feeling really stressed at work. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really lonely lately. What can I do to feel more connected to others?"
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits. What can I do to develop healthier habits?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my finances. What can I do to manage my money better?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger. What can I do to manage it better?"
+    },
+    {
+        "prompt": "I'm feeling really unmotivated lately. What can I do to feel more inspired?"
+    },
+    {
+        "prompt": "I'm having trouble with my alcohol use. What should I do?"
+    },
+    {
+        "prompt": "I'm feeling really anxious in social situations. What can I do to feel more comfortable?"
+    },
+    {
+        "prompt": "I'm having trouble with my sleep. What can I do to improve it?"
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I think I might have insomnia."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really depressed and I can't shake it off."
+    },
+    {
+        "prompt": "I'm having trouble focusing and I think I might have ADHD."
+    },
+    {
+        "prompt": "I'm feeling really stressed and overwhelmed at work."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't know how to improve it."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I keep lashing out at people."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't feel comfortable in my own skin."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I don't know how to make friends."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I think I might have an eating disorder."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I feel like I'm constantly burnt out."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I don't know how to come out to my family."
+    },
+    {
+        "prompt": "I'm having trouble with my career and I don't know what direction to take."
+    },
+    {
+        "prompt": "I'm having trouble with my family and I feel like I'm constantly arguing with them."
+    },
+    {
+        "prompt": "I'm having trouble with my finances and I don't know how to budget."
+    },
+    {
+        "prompt": "I'm having trouble with my drinking and I think I might have a problem."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately, and it's affecting my daily life. What can I do to manage my anxiety?"
+    },
+    {
+        "prompt": "I've been having trouble sleeping and I think I might have insomnia. What can I do to help me sleep better?"
+    },
+    {
+        "prompt": "I've been feeling really down and hopeless lately. Could I be depressed?"
+    },
+    {
+        "prompt": "I've been having trouble concentrating at work and feel like I'm always distracted. What can I do to improve my focus?"
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one. How can I deal with my grief?"
+    },
+    {
+        "prompt": "I'm really stressed out and feel like I'm on the verge of a breakdown. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we're considering couples therapy. What can we expect from couples therapy?"
+    },
+    {
+        "prompt": "I'm struggling with an addiction and want to quit. What can I do to overcome my addiction?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and feel like I'm not good enough. What can I do to improve my self-esteem?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger and feel like I'm always on edge. What can I do to manage my anger?"
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and feel like it's holding me back. What can I do to manage my social anxiety?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image and feel like I'm not attractive enough. What can I do to improve my body image?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and feel like I'm always working. What can I do to improve my work-life balance?"
+    },
+    {
+        "prompt": "I'm having trouble with my relationships and feel like I'm always getting into arguments. What can I do to improve my relationships?"
+    },
+    {
+        "prompt": "I'm having trouble with my procrastination and feel like I'm always putting things off. What can I do to overcome my procrastination?"
+    },
+    {
+        "prompt": "I'm having trouble with my addiction to social media and feel like it's taking over my life. What can I do to manage my addiction?"
+    },
+    {
+        "prompt": "I'm having trouble with my trust issues and feel like I can't trust anyone. What can I do to improve my trust issues?"
+    },
+    {
+        "prompt": "I'm having trouble with my communication skills and feel like I'm always misunderstood. What can I do to improve my communication skills?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-care and feel like I'm always putting others first. What can I do to improve my self-care?"
+    },
+    {
+        "prompt": "I'm having trouble with my perfectionism and feel like I'm never satisfied with my work. What can I do to manage my perfectionism?"
+    },
+    {
+        "prompt": "I feel like I'm constantly worrying about everything. What can I do to stop this?"
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless lately. Is there anything that can help me feel better?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What can I do to help me fall asleep?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming presentation at work. What can I do to calm down?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner. We're arguing a lot and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated. What can I do to make more friends?"
+    },
+    {
+        "prompt": "I'm feeling really angry all the time. What can I do to manage my anger?"
+    },
+    {
+        "prompt": "I'm feeling really insecure about my body. What can I do to feel better about myself?"
+    },
+    {
+        "prompt": "I'm feeling really stressed about money. What can I do to manage my finances better?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my family responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really lost and directionless in my career. What can I do to figure out my next steps?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about social situations. What can I do to feel more comfortable around others?"
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did in the past. What can I do to move on?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my personal responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really stuck in a rut. What can I do to break out of it?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my emotions. What can I do to manage them better?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about the future. What can I do to feel more secure?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my academic responsibilities. What can I do to manage my stress?"
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I've been feeling really down and hopeless for a while now."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep arguing."
+    },
+    {
+        "prompt": "I'm struggling with low self-esteem and I don't know how to improve it."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know where to turn."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed and stressed out with work."
+    },
+    {
+        "prompt": "I'm struggling with my body image and it's affecting my self-esteem."
+    },
+    {
+        "prompt": "I'm feeling really angry and I don't know how to control it."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to make friends."
+    },
+    {
+        "prompt": "I'm struggling with my identity and I don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my family and we keep fighting."
+    },
+    {
+        "prompt": "I'm struggling with trust issues in my relationships."
+    },
+    {
+        "prompt": "I'm struggling with grief and loss."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and I don't know how to come out."
+    },
+    {
+        "prompt": "I'm feeling really stressed out and burnt out from work."
+    },
+    {
+        "prompt": "I'm struggling with infertility and it's affecting my mental health."
+    },
+    {
+        "prompt": "I'm struggling with my career and I don't know what to do next."
+    },
+    {
+        "prompt": "I'm having trouble with my body and I don't feel comfortable in my own skin."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I think I need medication to help me."
+    },
+    {
+        "prompt": "I'm feeling really down lately and I think I might have depression."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and I don't know how to communicate with them better."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know where to turn."
+    },
+    {
+        "prompt": "I'm having trouble managing my anger and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm feeling really stressed out lately and I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't know how to feel better about myself."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change and I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I don't know how to come out to my family."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and I don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't know how to feel better about myself."
+    },
+    {
+        "prompt": "I'm having trouble with my career and I don't know what to do next."
+    },
+    {
+        "prompt": "I'm having trouble with my family and I don't know how to communicate with them better."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I don't know how to cope in social situations."
+    },
+    {
+        "prompt": "I'm having trouble with my trust issues and I don't know how to trust people again."
+    },
+    {
+        "prompt": "I'm having trouble with my grief and I don't know how to move on."
+    },
+    {
+        "prompt": "I'm having trouble with my trauma and I don't know how to cope with the memories."
+    },
+    {
+        "prompt": "I'm having trouble with my eating disorder and I don't know how to get better."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction to social media and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm feeling very anxious lately and can't seem to shake it off."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night and it's affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we can't seem to communicate effectively."
+    },
+    {
+        "prompt": "I'm feeling really down and can't seem to find joy in anything anymore."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and feel like I'm not good enough."
+    },
+    {
+        "prompt": "I'm struggling with addiction and can't seem to quit."
+    },
+    {
+        "prompt": "I'm having trouble managing my stress and it's affecting my physical and mental health."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and it's affecting my relationships with others."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change, like a divorce or a move to a new city."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and feel like I'm not attractive enough."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and feel like I'm always stressed and overwhelmed."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and feel like I can't connect with others."
+    },
+    {
+        "prompt": "I'm having trouble with my body and feel like I'm not healthy enough."
+    },
+    {
+        "prompt": "I'm having trouble with my family and feel like we're always fighting."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and feel like I'm not sure who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and feel like I don't know who I am."
+    },
+    {
+        "prompt": "I'm having trouble with my career and feel like I'm not sure where to go next."
+    },
+    {
+        "prompt": "I'm having trouble with my finances and feel like I'm always struggling to make ends meet."
+    },
+    {
+        "prompt": "I'm having trouble with my spirituality and feel like I'm not sure what I believe in."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I'm feeling really tired during the day."
+    },
+    {
+        "prompt": "I can't seem to shake this feeling of sadness."
+    },
+    {
+        "prompt": "I'm having trouble focusing at work and I feel like I'm constantly distracted."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and I don't know how to manage my stress."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we can't seem to communicate effectively."
+    },
+    {
+        "prompt": "I'm feeling really down and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't feel good about myself."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I feel like I'm constantly lashing out."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I don't know how to make healthier choices."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I don't know how to quit."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I'm afraid to go out in public."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't feel comfortable in my own skin."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I feel like I'm always working."
+    },
+    {
+        "prompt": "I'm having trouble with my relationships and I don't know how to improve them."
+    },
+    {
+        "prompt": "I'm having trouble with my decision-making and I feel like I'm constantly second-guessing myself."
+    },
+    {
+        "prompt": "I'm having trouble with my motivation and I don't feel like doing anything."
+    },
+    {
+        "prompt": "I'm having trouble with my memory and I feel like I'm forgetting things more often."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I don't know how to explore it safely."
+    },
+    {
+        "prompt": "I'm having trouble with my grief and I don't know how to cope with the loss of a loved one."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately and I don't know what to do about it."
+    },
+    {
+        "prompt": "I've been feeling really down lately and have lost interest in the things I used to enjoy."
+    },
+    {
+        "prompt": "I've been having trouble sleeping and I feel exhausted all the time."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we can't seem to communicate effectively."
+    },
+    {
+        "prompt": "I've been struggling with addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I've been feeling really stressed out and overwhelmed lately."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I often feel insecure."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I often lash out at others."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and I'm not sure who I am or what I want."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I often avoid social situations."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I often feel self-conscious about my appearance."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I often feel burnt out."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I often feel out of control around food."
+    },
+    {
+        "prompt": "I'm having trouble with my motivation and I often feel stuck in a rut."
+    },
+    {
+        "prompt": "I'm having trouble with my relationships and I often feel like I'm not getting what I need from others."
+    },
+    {
+        "prompt": "I'm having trouble with my sexual identity and I'm not sure how to navigate it."
+    },
+    {
+        "prompt": "I'm having trouble with my self-care and I often neglect my physical and emotional needs."
+    },
+    {
+        "prompt": "I'm having trouble with my family and we often argue and disagree."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and personal responsibilities. I don't know how to manage my time better."
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. I'm always tired during the day and it's affecting my work."
+    },
+    {
+        "prompt": "I'm feeling really down lately. I don't know what's wrong with me."
+    },
+    {
+        "prompt": "I'm having trouble in my relationship. My partner and I keep arguing and I don't know how to fix it."
+    },
+    {
+        "prompt": "I'm feeling really anxious before my job interview. I don't know how to calm down."
+    },
+    {
+        "prompt": "I'm having trouble concentrating at work. My mind keeps wandering and I can't focus."
+    },
+    {
+        "prompt": "I'm feeling really angry lately. I don't know how to control it."
+    },
+    {
+        "prompt": "I'm having trouble making friends. I feel really lonely and isolated."
+    },
+    {
+        "prompt": "I'm feeling really stressed lately. I don't know how to relax."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem. I don't feel good about myself."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with grief after the loss of a loved one. I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits. I'm either overeating or not eating enough."
+    },
+    {
+        "prompt": "I'm feeling really anxious about social situations. I don't know how to be more confident."
+    },
+    {
+        "prompt": "I'm having trouble with my romantic relationship. I don't know how to communicate effectively."
+    },
+    {
+        "prompt": "I'm feeling really anxious about the future. I don't know what's going to happen."
+    },
+    {
+        "prompt": "I'm having trouble with my self-care routine. I don't know how to take care of myself."
+    },
+    {
+        "prompt": "I'm feeling really depressed lately. I don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance. I feel like I'm always working and never have time for myself."
+    },
+    {
+        "prompt": "I'm feeling really stressed about finances. I'm not sure how to manage my money."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know how to cope with it."
+    },
+    {
+        "prompt": "I've been having trouble sleeping at night and I feel tired all the time."
+    },
+    {
+        "prompt": "I'm having trouble dealing with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and we keep arguing."
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and confidence."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I often lash out at others."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with my workload and responsibilities."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I feel like I'm not good enough."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I feel like it's holding me back."
+    },
+    {
+        "prompt": "I'm having trouble with my procrastination and I feel like it's affecting my productivity."
+    },
+    {
+        "prompt": "I'm having trouble with my trust issues and I find it hard to trust others."
+    },
+    {
+        "prompt": "I'm having trouble with my self-care and I often neglect my own needs."
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and I often feel burnt out."
+    },
+    {
+        "prompt": "I'm having trouble with my perfectionism and I often feel like nothing is ever good enough."
+    },
+    {
+        "prompt": "I'm having trouble with my communication skills and I often feel misunderstood."
+    },
+    {
+        "prompt": "I'm having trouble with my parenting and I often feel overwhelmed and unsure."
+    },
+    {
+        "prompt": "I'm having trouble with my sexuality and I feel confused and unsure."
+    },
+    {
+        "prompt": "I'm having trouble with my identity and I feel lost and unsure."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately, what can I do about it?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I don't know why. Can you help?"
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know why. Can you help me figure it out?"
+    },
+    {
+        "prompt": "I think I might have OCD. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my partner. Can you help us communicate better?"
+    },
+    {
+        "prompt": "I'm struggling with self-esteem issues. Can you help me feel better about myself?"
+    },
+    {
+        "prompt": "I'm feeling really stressed and overwhelmed. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm struggling with addiction. Can you help me overcome it?"
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one. Can you help me?"
+    },
+    {
+        "prompt": "I'm having trouble with my child's behavior. Can you help me manage it?"
+    },
+    {
+        "prompt": "I'm having trouble with my own behavior. Can you help me change it?"
+    },
+    {
+        "prompt": "I'm struggling with social anxiety. Can you help me overcome it?"
+    },
+    {
+        "prompt": "I'm having trouble with my sex life. Can you help me?"
+    },
+    {
+        "prompt": "I'm feeling really angry lately. What can I do about it?"
+    },
+    {
+        "prompt": "I'm struggling with a traumatic event from my past. Can you help me cope with it?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image. Can you help me feel better about myself?"
+    },
+    {
+        "prompt": "I'm struggling with work-related stress. Can you help me manage it?"
+    },
+    {
+        "prompt": "I'm struggling with my identity. Can you help me figure out who I am?"
+    },
+    {
+        "prompt": "I'm struggling with feelings of loneliness. Can you help me feel more connected?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping lately, what can I do?"
+    },
+    {
+        "prompt": "I feel like my partner doesn't love me anymore, what should I do?"
+    },
+    {
+        "prompt": "I'm feeling really anxious all the time, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble concentrating at work, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless, what should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble controlling my anger, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really stressed out, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble making friends, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really lonely, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-confidence, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did, what should I do?"
+    },
+    {
+        "prompt": "I'm feeling really jealous of my friend's success, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really insecure in my relationship, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble getting over a past relationship, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my finances, what can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my parents, what can I do?"
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my responsibilities, what can I do?"
+    },
+    {
+        "prompt": "I've been feeling very anxious lately and I don't know what to do about it."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I've been having trouble sleeping lately and I don't know why."
+    },
+    {
+        "prompt": "I've been having trouble concentrating at work and it's affecting my performance."
+    },
+    {
+        "prompt": "I'm having trouble coping with the loss of a loved one."
+    },
+    {
+        "prompt": "I'm struggling with self-esteem issues and it's affecting my relationships."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed and stressed out."
+    },
+    {
+        "prompt": "I'm having trouble communicating effectively with my partner."
+    },
+    {
+        "prompt": "I'm feeling really angry all the time and I don't know why."
+    },
+    {
+        "prompt": "I'm feeling really lonely and isolated."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a new job."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming presentation at work."
+    },
+    {
+        "prompt": "I'm struggling with body image issues."
+    },
+    {
+        "prompt": "I'm feeling really stressed out about money."
+    },
+    {
+        "prompt": "I'm having trouble coping with stress at work."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by my responsibilities at home."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by social media and the news."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed by the state of the world right now."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I think I need sleeping pills."
+    },
+    {
+        "prompt": "I think I have a drinking problem but I don't know how to stop."
+    },
+    {
+        "prompt": "I'm feeling really depressed and I don't know how to get out of this rut."
+    },
+    {
+        "prompt": "I'm having trouble with my partner and I don't know how to communicate effectively."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and I don't know how to manage my stress."
+    },
+    {
+        "prompt": "I'm having trouble with my teenage son and I don't know how to discipline him."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and I don't know how to feel better about myself."
+    },
+    {
+        "prompt": "I think I have ADHD but I'm not sure."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and I don't know how to control it."
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and I don't know how to eat healthier."
+    },
+    {
+        "prompt": "I'm having trouble with my social anxiety and I don't know how to overcome it."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and I don't know how to feel better about myself."
+    },
+    {
+        "prompt": "I'm having trouble with my addiction and I don't know how to quit."
+    },
+    {
+        "prompt": "I'm having trouble with my intrusive thoughts and I don't know how to stop them."
+    },
+    {
+        "prompt": "I'm having trouble with my PTSD and I don't know how to cope with my triggers."
+    },
+    {
+        "prompt": "I'm having trouble with my OCD and I don't know how to stop my compulsions."
+    },
+    {
+        "prompt": "I'm having trouble with my phobias and I don't know how to face them."
+    },
+    {
+        "prompt": "I feel like I'm always anxious and it's affecting my daily life. What can I do to manage my anxiety?"
+    },
+    {
+        "prompt": "I'm struggling with depression and I don't know how to get out of this dark place."
+    },
+    {
+        "prompt": "I have trouble sleeping at night and it's affecting my productivity during the day. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I have a fear of public speaking and it's preventing me from advancing in my career. What can I do to overcome this fear?"
+    },
+    {
+        "prompt": "I'm having trouble in my relationship and I don't know how to communicate effectively with my partner."
+    },
+    {
+        "prompt": "I have a history of trauma and it's affecting my daily life. What can I do to manage my PTSD symptoms?"
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and personal responsibilities. How can I balance everything and avoid burnout?"
+    },
+    {
+        "prompt": "I have low self-esteem and struggle with self-confidence. How can I improve my self-image?"
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to quit. What can I do to overcome my addiction?"
+    },
+    {
+        "prompt": "I'm feeling disconnected from my friends and family. How can I improve my relationships?"
+    },
+    {
+        "prompt": "I'm struggling with my sexuality and don't know how to come out to my family and friends."
+    },
+    {
+        "prompt": "I'm having trouble with my body image and feel pressure to look a certain way. How can I improve my self-image?"
+    },
+    {
+        "prompt": "I'm feeling lost and don't know what I want to do with my life. How can I find my purpose?"
+    },
+    {
+        "prompt": "I'm struggling with infertility and don't know how to cope with the emotional toll it's taking on me."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change, such as a divorce or moving to a new city. How can I cope with this change?"
+    },
+    {
+        "prompt": "I'm struggling with my finances and don't know how to manage my money effectively. What can I do to improve my financial situation?"
+    },
+    {
+        "prompt": "I'm having trouble forgiving someone who has hurt me in the past. How can I let go of this resentment?"
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to make friends and form relationships. What can I do to manage my anxiety?"
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with my workload and don't know how to manage my time effectively. What can I do to improve my productivity?"
+    },
+    {
+        "prompt": "I'm struggling with my identity and don't know who I am or where I belong. How can I find myself?"
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming job interview. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with depression and don't know what to do."
+    },
+    {
+        "prompt": "I'm having trouble dealing with a recent breakup. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble managing my stress levels. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble making friends. What should I do?"
+    },
+    {
+        "prompt": "I'm struggling with an addiction. What can I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my marriage. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with a phobia. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my body image. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with social anxiety. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my anger. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with trust issues. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my child's behavior. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with grief over the loss of a loved one. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with procrastination. What can I do?"
+    },
+    {
+        "prompt": "I'm struggling with feelings of loneliness. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance. What can I do?"
+    },
+    {
+        "prompt": "I'm feeling really anxious and have been having trouble sleeping"
+    },
+    {
+        "prompt": "I've been feeling really down lately and don't have much motivation to do anything"
+    },
+    {
+        "prompt": "I'm having trouble communicating with my partner and we keep arguing"
+    },
+    {
+        "prompt": "I'm struggling with addiction and don't know how to quit"
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem and don't feel good about myself"
+    },
+    {
+        "prompt": "I'm having trouble with my boss at work and don't know how to handle the situation"
+    },
+    {
+        "prompt": "I'm having trouble making friends and feel lonely"
+    },
+    {
+        "prompt": "I'm having trouble managing my stress levels and feel overwhelmed"
+    },
+    {
+        "prompt": "I'm having trouble with my teenage daughter and don't know how to communicate with her"
+    },
+    {
+        "prompt": "I'm having trouble with procrastination and can't seem to get anything done"
+    },
+    {
+        "prompt": "I'm having trouble with my anger and keep lashing out at people"
+    },
+    {
+        "prompt": "I'm having trouble with my body image and don't feel comfortable in my own skin"
+    },
+    {
+        "prompt": "I'm having trouble trusting people and have difficulty forming close relationships"
+    },
+    {
+        "prompt": "I'm having trouble with my sexual identity and don't know how to come out to my family"
+    },
+    {
+        "prompt": "I'm having trouble with my eating habits and can't seem to control my binge eating"
+    },
+    {
+        "prompt": "I'm having trouble with my work-life balance and feel like I'm always working"
+    },
+    {
+        "prompt": "I'm having trouble with my finances and can't seem to save any money"
+    },
+    {
+        "prompt": "I'm having trouble with my career and don't know what direction to take"
+    },
+    {
+        "prompt": "I'm having trouble with my sleep and can't seem to get a good night's rest"
+    },
+    {
+        "prompt": "I'm having trouble with my aging parents and don't know how to care for them"
+    },
+    {
+        "prompt": "I have been feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I've been having trouble sleeping for weeks and it's really affecting my daily life."
+    },
+    {
+        "prompt": "I'm having trouble connecting with my partner and I don't know what to do."
+    },
+    {
+        "prompt": "I hate going to work every day and I don't know how to make it better."
+    },
+    {
+        "prompt": "I've been feeling really down lately and I don't know why."
+    },
+    {
+        "prompt": "I'm really struggling with body image issues and it's affecting my self-esteem."
+    },
+    {
+        "prompt": "I'm having trouble coping with the death of a loved one."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know how to stop."
+    },
+    {
+        "prompt": "I'm worried that my child may have a learning disability."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and it's affecting my ability to make friends."
+    },
+    {
+        "prompt": "I'm having trouble managing my stress levels."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with my workload and don't know how to manage it."
+    },
+    {
+        "prompt": "I'm struggling with trust issues in my relationship."
+    },
+    {
+        "prompt": "I'm having trouble forgiving someone who hurt me."
+    },
+    {
+        "prompt": "I'm struggling with self-doubt and don't know how to improve my confidence."
+    },
+    {
+        "prompt": "I'm feeling really disconnected from my family and don't know how to improve our relationship."
+    },
+    {
+        "prompt": "I'm struggling with my identity and don't know how to find myself."
+    },
+    {
+        "prompt": "I'm having trouble with my memory and don't know if it's normal."
+    },
+    {
+        "prompt": "I'm struggling with my sexuality and don't know how to come out to my family."
+    },
+    {
+        "prompt": "I've been feeling really anxious lately and I don't know what to do about it."
+    },
+    {
+        "prompt": "I'm struggling with a recent breakup and can't seem to move on."
+    },
+    {
+        "prompt": "I feel like I'm not good enough and constantly compare myself to others."
+    },
+    {
+        "prompt": "I've been having trouble sleeping and feel tired all the time."
+    },
+    {
+        "prompt": "I'm struggling with a substance abuse problem and want to get help."
+    },
+    {
+        "prompt": "I'm struggling with my sexual identity and don't know who to talk to."
+    },
+    {
+        "prompt": "I'm having trouble with my relationship and don't know how to communicate effectively."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with work and personal responsibilities."
+    },
+    {
+        "prompt": "I'm struggling with depression and feel like there's no way out."
+    },
+    {
+        "prompt": "I'm having trouble with my self-image and constantly compare myself to others."
+    },
+    {
+        "prompt": "I'm struggling with the loss of a loved one and don't know how to cope."
+    },
+    {
+        "prompt": "I'm struggling with social anxiety and have trouble in social situations."
+    },
+    {
+        "prompt": "I'm feeling stressed and overwhelmed with school/work."
+    },
+    {
+        "prompt": "I'm feeling frustrated with my lack of progress in therapy."
+    },
+    {
+        "prompt": "I'm feeling guilty and ashamed about something I did in the past."
+    },
+    {
+        "prompt": "I'm having trouble with my anger and have trouble controlling my emotions."
+    },
+    {
+        "prompt": "I'm struggling with my identity and don't know who I am."
+    },
+    {
+        "prompt": "I'm feeling overwhelmed with my family responsibilities and don't know how to manage everything."
+    },
+    {
+        "prompt": "I'm feeling lost and directionless in my life."
+    },
+    {
+        "prompt": "I'm feeling really anxious lately and I don't know why."
+    },
+    {
+        "prompt": "I'm having trouble sleeping and I don't know what to do."
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless lately."
+    },
+    {
+        "prompt": "I'm having trouble communicating with my partner and we keep fighting. What should I do?"
+    },
+    {
+        "prompt": "I'm feeling really stressed out with work and I don't know how to cope."
+    },
+    {
+        "prompt": "I'm having trouble managing my anger and I keep lashing out at people."
+    },
+    {
+        "prompt": "I'm struggling with addiction and I don't know where to turn."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed and I don't know how to manage my time."
+    },
+    {
+        "prompt": "I'm having trouble making friends and I feel really lonely."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming presentation at work."
+    },
+    {
+        "prompt": "I'm having trouble trusting people and I don't know why."
+    },
+    {
+        "prompt": "I'm feeling really guilty about something I did in the past."
+    },
+    {
+        "prompt": "I'm having trouble adjusting to a major life change."
+    },
+    {
+        "prompt": "I'm feeling really insecure about my appearance."
+    },
+    {
+        "prompt": "I'm feeling really stressed about a big upcoming deadline."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with responsibilities at home and work."
+    },
+    {
+        "prompt": "I'm feeling really angry about a recent argument with a friend."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with negative news and events happening in the world."
+    },
+    {
+        "prompt": "I'm feeling really anxious about an upcoming social event."
+    },
+    {
+        "prompt": "I'm feeling really overwhelmed with grief after the loss of a loved one."
+    },
+    {
+        "prompt": "I'm feeling really stressed out lately and I don't know how to cope with it."
+    },
+    {
+        "prompt": "I think I might have depression. What should I do?"
+    },
+    {
+        "prompt": "I'm having trouble sleeping at night. What can I do to improve my sleep?"
+    },
+    {
+        "prompt": "I'm really struggling with anxiety. What can I do to manage it?"
+    },
+    {
+        "prompt": "I'm going through a really tough break-up and I don't know how to move on."
+    },
+    {
+        "prompt": "I'm having trouble with my self-esteem. How can I feel better about myself?"
+    },
+    {
+        "prompt": "I'm struggling with addiction. What should I do?"
+    },
+    {
+        "prompt": "I'm feeling really down and hopeless. What can I do to feel better?"
+    },
+    {
+        "prompt": "I'm having trouble with my relationship. What should I do?"
+    }
+]

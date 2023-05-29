@@ -98,7 +98,7 @@ parser = HfArgumentParser(ScriptArguments)
 script_args = parser.parse_args_into_dataclasses()[0]
 
 
-dataset_name = "./datasets/"
+dataset_name = "./datasets/rlaif-tune-rm"
 print("dataset_name: ", dataset_name)
 
 # Define the training args. Needs to be done before the model is loaded if you are using deepspeed.
