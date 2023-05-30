@@ -83,6 +83,7 @@ class SFTDataLoader(object):
             data = load_dataset(self.data_path)
 
         if self.val_set_size > 0:
+            print("WE HERE")
             train_val = data["train"].train_test_split(
                 test_size=self.val_set_size, shuffle=True, seed=42
             )
@@ -94,9 +95,10 @@ class SFTDataLoader(object):
                 train_val["test"].shuffle().map(
                     self.generate_and_tokenize_prompt)
             )
-            train_data = train_data.select(range(1000))
-            val_data = val_data.select(range(100))
+            train_data = train_data.select(range(3845))
+            val_data = val_data.select(range(961))
         else:
+            print("ingen val data?")
             train_data = data["train"].shuffle().map(
                 self.generate_and_tokenize_prompt)
             val_data = None

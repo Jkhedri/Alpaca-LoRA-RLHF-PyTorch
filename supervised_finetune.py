@@ -31,7 +31,7 @@ from data_loader import sft_dataloader
 def train(
     # model/data params
     base_model: str = "",  # the only required argument
-    data_path: str = "yahma/alpaca-cleaned",
+    data_path: str = "samhog/psychology-6k",
     output_dir: str = "./lora-alpaca",
     # training hyperparams
     batch_size: int = 128,
@@ -217,7 +217,8 @@ def train(
 
     trainer.train(resume_from_checkpoint=resume_from_checkpoint)
 
-    model.save_pretrained(output_dir)
+    #model.save_pretrained(output_dir)
+    model.push_to_hub("samhog/psychology-llama", use_auth_token=True)
 
     print(
         "\n If there's a warning about missing keys above, please disregard :)"
