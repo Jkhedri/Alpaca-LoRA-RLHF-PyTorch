@@ -271,8 +271,10 @@ sentiment_pipe = pipeline(
 # the `generate` function of the trained model.
 generation_kwargs = {
     # "min_length": -1,
+    "temperature": 0.6,
     "top_k": 0.0,
-    "top_p": 1.0,
+    "top_p": 0.95,
+    "repetition_penalty": 1.15,
     "do_sample": True,
     "pad_token_id": tokenizer.pad_token_id,
     "eos_token_id": 100_000,
@@ -304,4 +306,4 @@ for epoch, batch in tqdm(enumerate(ppo_trainer.dataloader)):
     if script_args.save_freq and epoch and epoch % script_args.save_freq == 0:
         ppo_trainer.save_pretrained(script_args.output_dir + f"step_{epoch}")
 
-model.push_to_hub("samhog/psychology-alpaca-rlhf", use_auth_token=True)
+model.push_to_hub("samhog/psychology-llama-rlaif", use_auth_token=True)
