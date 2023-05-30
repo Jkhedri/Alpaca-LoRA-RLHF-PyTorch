@@ -83,4 +83,4 @@ else:
     model.save_pretrained(f"{script_args.output_name}")
 # model.push_to_hub(f"{script_args.model_name}-adapter-merged", use_temp_dir=False)
 """
-model.push_to_hub(model.push_to_hub("samhog/psychology-alpaca-rm-adapter-merged", use_auth_token=True))
+model.push_to_hub("samhog/psychology-llama-merged", use_auth_token=True)
