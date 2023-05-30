@@ -79,7 +79,7 @@ print("script_args: ", script_args)
 reward_model_name = script_args.reward_model_name
 
 # dataset_name = "lvwerra/stack-exchange-paired"
-dataset_name = "./datasets/rl-training.json"
+dataset_name = "./datasets/"
 print("dataset_name: ", dataset_name)
 
 config = PPOConfig(
@@ -161,7 +161,7 @@ def build_dataset(
         }
         # for question in examples["question"]:
         for question in examples["prompt"]:
-            query = "Prompt: " + question + "\n\nAnswer: "
+            query = question + "\n### Instruction:\nIf you are a licensed psychologist, please provide this patient with a helpful response to their concern." + "\n###Response:\n"
             print(query) 
             tokenized_question = tokenizer(query, truncation=True)
             new_examples["query"].append(query)
